@@ -9,6 +9,7 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+> Из ряда вон выходящий план размещения: методология и особенности
  
 ##Images
 ![](https://github.com/luschenko/fix_css1/blob/master/bcss21.png)
